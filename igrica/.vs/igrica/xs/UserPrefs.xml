@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{D704BAD5-04AE-236B-F098-01952C0590F8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Sjecista.cs">
+    <Files>
+      <File FileName="Assets/appear.cs" Line="17" Column="35" />
+      <File FileName="Assets/Scenes/changeScene.cs" />
+      <File FileName="Assets/appear2.cs" />
+      <File FileName="Assets/Scenes/changeScene2.cs" />
+      <File FileName="Assets/Scenes/quitScript.cs" />
+      <File FileName="../../../../ISS2/Assets/aTob.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scenes/atob.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scenes/Sjecista.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="igrica" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="Sjecista.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="46ef762a-0255-4fe5-a0af-40f4c5970104" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
